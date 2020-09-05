@@ -26,7 +26,7 @@ with open('/users/jamundur/Downloads/feedAll.txt') as file:
             psum=psum+float(match2.group(1))
             finalsum=finalsum+psum
         if match3:
-            if round(finalsum,2) >=1.10:
+            if round(finalsum,2) >=1.11:
                 print("\n\t\thttps://www.predictit.org/markets/detail/"+cid,"\t ",round(finalsum,2),"\n")
             finalsum=0.0
 
