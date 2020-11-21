@@ -39,4 +39,4 @@ to bet !!!
 https://blog.rossry.net/predictit/
 *******************************************************************************
 """)
-### Jasan Mundur and Hari Krishnan
+### Jasan Mundur
