@@ -8,4 +8,3 @@ In certain multiple contracts betting situation whose outcomes are tied to a sin
 * Change file locations to match your settings.
 Please read more before you play this betting strategy where you get paid 
 to bet !!!
-https://blog.rossry.net/predictit/
